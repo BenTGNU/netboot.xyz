@@ -1,0 +1,4 @@
+filelist.txt
+netboot.xyz.lkrn
+netbootxyzmain.menu
+netbootxyz.menu

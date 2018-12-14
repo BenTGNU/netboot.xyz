@@ -1,0 +1,10 @@
+MENU BEGIN NETBOOT
+MENU TITLE NetBoot XYZ
+MENU LABEL ^NetBoot XYZ
+MENU BACKGROUND er/plugins/netboot.xyz/grml.png
+
+MENU INCLUDE er/plugins/netboot.xyz/netbootxyzmain.menu
+
+# ------====> Back <====------
+MENU INCLUDE er/menu/shared/menu-back.module
+MENU END
